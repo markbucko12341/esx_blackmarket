@@ -2,9 +2,7 @@
 
 ## Download & Installation
 install like anyother script add the sql 
-```
-fvm install --save --folder=esx esx-org/esx_shops
-```
+...
 this is a remake of esx_shop  use this for all your blackmarket item such as bobbypins, gun addon items ect ect 
 
 ```
