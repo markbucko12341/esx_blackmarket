@@ -9,8 +9,7 @@ this is a remake of esx_shop  use this for all your blackmarket item such as bob
 add to your server.cfg
 start esx_blackmarket
 ```
-
-i do not wish this to be uploaded to anyother forums please thank you 
+THIS IS A REMAKE OF ESX_SHOPS 
 
 # Legal
 ### License
