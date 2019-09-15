@@ -10,6 +10,8 @@ add to your server.cfg
 start esx_blackmarket
 ```
 
+i do not wish this to be uploaded to anyother forums please thank you 
+
 # Legal
 ### License
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
